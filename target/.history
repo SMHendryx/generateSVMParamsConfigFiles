@@ -1,0 +1,19 @@
+run
+sbt
+exit
+run
+exit
+exi
+exit
+run
+exit
+run
+exit
+run
+last compile:run
+run
+exit
+run
+exit
+run
+exit
